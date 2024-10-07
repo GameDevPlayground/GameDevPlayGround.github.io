@@ -1,1 +1,2 @@
-[Ray-casting with Kha](/ray-khasting/)
+[Game of Life with Ceramic](/game-of-life/)  
+[Ray-casting with Kha](/ray-khasting/)  
